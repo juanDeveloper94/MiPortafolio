@@ -5,3 +5,43 @@
     color: white;
     text-decoration: none;
 }
+.logo{
+    width: 90px;
+}
+#navbar{
+    height: 70px;
+}
+
+.container-fluid{
+    margin: 30px;
+}
+
+#main .carousel-inner img{
+    max-height: 75vh;
+    object-fit: cover;
+}
+#carouselExampleFade{
+    position: relative;
+}
+
+.carousel-inner{
+    opacity: 0.9;
+}
+#boton{
+    position: relative;
+    top: 300px;
+    left: 580px;
+    width: 180px;
+    height: 60px;
+}
+.row-colores{
+    background-color: #283747;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.enviar{
+    position: relative;
+    float: right;
+    width: 200px;
+}
