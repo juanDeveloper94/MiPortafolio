@@ -45,3 +45,45 @@
     float: right;
     width: 200px;
 }
+.lenguajes{
+   
+    text-align: center;
+
+}
+#search{
+    border: 1 px solid white;
+}
+.icono{
+    
+    color: white;
+}
+#conocimientos{
+    background-color: #283747;
+    color: white;
+    width: 85%;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#skills{
+    font-weight: bold;
+    text-align: center;
+}
+.linea{
+    color: white;
+    border: 1 px solid;
+}
+.progress-bar{
+    background-color: #F5B041 ;
+}
+.go{
+    width: 415px;
+    height: 300px;
+}
+.card-text{
+    text-align: justify;
+}
+.proximo{
+    float: right;
+    background-color: #283747;
+}
